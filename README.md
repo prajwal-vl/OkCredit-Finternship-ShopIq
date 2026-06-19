@@ -101,7 +101,7 @@ This repo includes `.github/workflows/build-apk.yml`, which builds a debug APK o
 
 ## License
 
-Add a license of your choice (MIT is a common default for personal/portfolio projects).
+An Internship Project
 
 ---
 
